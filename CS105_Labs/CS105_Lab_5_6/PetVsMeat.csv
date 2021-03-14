@@ -1,0 +1,111 @@
+Gender,Pet,NumPets,NamePet,TypeMeat,NoMeatReason
+Male,No,0,None,Poultry,Personal Preference
+Female,No,0,None,None,"Environmental / Animal Rights, Personal Preference"
+Female,Yes,5,"Cat, Guinea Pig",None,"Health, Environmental / Animal Rights, Personal Preference"
+Male,No,0,None,"Poultry, Seafood",Personal Preference
+Male,Yes,1,Dog,"Red Meat, Poultry",None
+Male,Yes,1,Cat,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Cat,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,"Red Meat, Poultry, Seafood",Personal Preference
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,Red Meat,None
+Other,Yes,1,Dog,"Red Meat, Poultry",Personal Preference
+Male,No,0,None,Poultry,"Environmental / Animal Rights, Personal Preference"
+Female,No,0,None,None,Environmental / Animal Rights
+Male,No,0,None,Seafood,Personal Preference
+Male,Yes,2,Dog,"Red Meat, Poultry, Seafood",None
+Male,Yes,5,"Dog, Bird, Other","Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Dog,Red Meat,None
+Male,Yes,2,Dog,Red Meat,None
+Male,Yes,1,Cat,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Dog,"Poultry, Seafood",Health
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Female,Yes,4,Cat,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Female,Yes,1,Dog,"Red Meat, Poultry, Seafood",Personal Preference
+Male,Yes,1,Cat,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry",Personal Preference
+Male,Yes,2,Dog,"Red Meat, Poultry, Seafood",None
+Female,Yes,3,"Dog, Cat",None,"Environmental / Animal Rights, Personal Preference"
+Male,Yes,1,Other,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,"Poultry, Seafood",Environmental / Animal Rights
+Male,No,0,None,"Poultry, Seafood",Personal Preference
+Female,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,None,"Health, Environmental / Animal Rights, Personal Preference"
+Male,No,0,None,None,"Personal Preference, Religious Beliefs"
+Male,Yes,1,Dog,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,None,"Health, Environmental / Animal Rights, Personal Preference, Religious Beliefs"
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,"Red Meat, Poultry, Seafood",Personal Preference
+Male,No,0,None,None,Religious Beliefs
+Female,No,0,None,"Red Meat, Poultry, Seafood",Environmental / Animal Rights
+Male,No,0,None,Poultry,"Health, Environmental / Animal Rights, Personal Preference, Religious Beliefs"
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Cat,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Dog,"Red Meat, Poultry, Seafood",None
+Male,Yes,2,Cat,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Seafood",None
+Male,Yes,1,Turtle,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Dog,"Red Meat, Poultry, Seafood",None
+Other,No,0,None,Seafood,Health
+Male,No,0,None,Poultry,Personal Preference
+Male,No,0,Dog,"Red Meat, Poultry, Seafood",Personal Preference
+Male,Yes,4,Dog,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Female,Yes,1,Cat,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,None,"Personal Preference, Religious Beliefs"
+Male,No,0,None,Poultry,Personal Preference
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,3,None,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Dog,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,Poultry,None
+Male,No,0,None,None,Religious Beliefs
+Female,No,0,None,None,"Personal Preference, Religious Beliefs"
+Male,Yes,6,"Cat, Fish, Urchin","Red Meat, Poultry, Seafood",None
+Female,No,0,None,Seafood,Environmental / Animal Rights
+Female,No,0,None,None,Religious Beliefs
+Male,Yes,1,Dog,"Red Meat, Poultry, Seafood",None
+Female,Yes,2,"Cat, Hamster / Guinea Pig","Red Meat, Poultry, Seafood",Religious Beliefs
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,"Poultry, Seafood",Health
+Male,No,0,None,"Poultry, Seafood",Health
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,Poultry,Personal Preference
+Male,Yes,1,Cat,"Red Meat, Poultry, Seafood",None
+Other,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,Poultry,Health
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Dog,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,"Red Meat, Poultry, Seafood","Health, Environmental / Animal Rights, Personal Preference"
+Female,No,0,None,"Red Meat, Poultry, Seafood",None
+Female,Yes,4,"Dog, Cat",None,Personal Preference
+Female,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Cat,"Red Meat, Poultry, Seafood",None
+Male,Yes,2,Dog,"Red Meat, Poultry, Seafood",None
+Male,Yes,1,Dog,"Poultry, Seafood",Health
+Female,Yes,1,Dog,"Red Meat, Poultry, Seafood",None
+Female,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,Poultry,Personal Preference
+Male,Yes,1,Dog,"Red Meat, Poultry, Seafood",None
+Female,Yes,4,"Dog, Snake","Red Meat, Poultry, Seafood",None
+Male,Yes,2,Dog,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,Yes,6,"Dog, Bird, Rabbit, Turtle","Red Meat, Poultry, Seafood",None
+Male,Yes,4,"Dog, Cat","Red Meat, Poultry, Seafood",None
+Male,Yes,6,"Dog, Cat","Red Meat, Poultry, Seafood",None
+Other,No,0,None,None,"Environmental / Animal Rights, Personal Preference"
+Female,No,0,None,"Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
+Male,No,0,None,"Red Meat, Poultry",Personal Preference
+Male,No,0,None,"Red Meat, Poultry, Seafood",None
